@@ -1,5 +1,6 @@
 # BoxCount
-Count how many box do we need to fit a given amount of items, our large and small available containers size is adjustable.
+Count how many box do we need to fit a given amount of items.
+We can adjust the size and amount of the available boxes.
 
 
 Example input
